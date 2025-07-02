@@ -300,8 +300,8 @@ def profit_calculations():
 
     # Email sending
     if email_name:
-        email_sender = "shaunthepro1@gmail.com"
-        email_password = "omuw zyxt vnaz huqi"
+        email_sender = ""
+        email_password = ""
         email_receiver = email_name
 
         subject = "Real Estate Flipping Results"
